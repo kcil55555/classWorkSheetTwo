@@ -1,0 +1,1 @@
+import java.util.Scanner;public class ThingTwo {Scanner scanner = new Scanner(System.in);String m_name;String name;public ThingTwo (String name){m_name = name;}public void UseCatmeow(){System.out.println("meow");}public void UseCatScratch(){System.out.println("scratch");}   public void UseCatPurr(){System.out.println("purr");}public void UseCatBite(){System.out.println("bite");}}
